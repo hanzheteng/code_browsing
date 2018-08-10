@@ -1,3 +1,27 @@
+# oh_my_zsh config  
+## Font  
+DejaVu Sans Mono Book 12
+## Build-in color  
+Solarized Dark and Tango  
+## zsh theme  
+`ys`
+## zsh-autosuggestions
+`git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions`  
+`add plugin in .zshrc`  
+# Terminator config  
+`sudo apt-get install terminator`  
+## Theme  
+`git clone https://github.com/ghuntley/terminator-solarized.git`  
+`cd terminator-solarized`   
+`mkdir -p ~/.config/terminator/`  
+`touch ~/.config/terminator/config`  
+`cp config ~/.config/terminator`
+
+
+
+
+
+
 # vim_config
 ## Configuration
 `sudo apt-get install cscope`  

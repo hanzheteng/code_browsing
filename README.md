@@ -16,10 +16,7 @@ Solarized Dark and Tango
 `mkdir -p ~/.config/terminator/`  
 `touch ~/.config/terminator/config`  
 `cp config ~/.config/terminator`
-
-
-
-
+`uncomment #force_color_prompt in .bachrc to highlight hostname`
 
 
 # vim_config
